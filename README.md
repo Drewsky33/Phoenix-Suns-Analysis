@@ -32,3 +32,4 @@ The data for this project was scraped using the nbaStatR package from [Basketbal
 ### Player Shot Analysis
 
 ![CP3_Heatmap](https://user-images.githubusercontent.com/77873198/172489831-1c2711de-7d9e-4540-85b2-02edd525634c.png)
+
